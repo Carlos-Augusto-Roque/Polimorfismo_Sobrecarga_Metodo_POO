@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polimorfismo_Sobrecarga_Metodo_POO/1.0.0": {
+        "runtime": {
+          "Polimorfismo_Sobrecarga_Metodo_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfismo_Sobrecarga_Metodo_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
